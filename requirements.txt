@@ -1,0 +1,5 @@
+aiogram==3.13.1
+asyncpg==0.30.0
+aiohttp[speedups]==3.10.5
+uvloop==0.21.0
+orjson==3.10.7
